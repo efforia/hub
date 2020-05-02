@@ -2,16 +2,16 @@
 from __future__ import absolute_import, unicode_literals
 import os
 
-SHOP_CHECKOUT_FORM_CLASS = 'emporio.forms.ExternalPaymentOrderForm'
+SHOP_CHECKOUT_FORM_CLASS = 'hub.forms.ExternalPaymentOrderForm'
 SHOP_CHECKOUT_STEPS_SPLIT = True
 SHOP_CHECKOUT_STEPS_CONFIRMATION = False
 #SHOP_CURRENCY_LOCALE = 'ptb' if 'posix' not in os.name else 'pt_BR.UTF-8'
 SHOP_CURRENCY_LOCALE = 'en_US.UTF-8'
-#SHOP_HANDLER_BILLING_SHIPPING = 'emporio.hooks.sedex_shipping_handler'
+#SHOP_HANDLER_BILLING_SHIPPING = 'hub.hooks.sedex_shipping_handler'
 SHOP_HANDLER_BILLING_SHIPPING = None
 SHOP_HANDLER_TAX = None
 SHOP_HANDLER_ORDER = None
-#SHOP_HANDLER_PAYMENT = 'emporio.hooks.multiple_payment_handler'
+#SHOP_HANDLER_PAYMENT = 'hub.hooks.multiple_payment_handler'
 SHOP_HANDLER_PAYMENT = None
 
 
@@ -78,14 +78,14 @@ DATABASES = {
     }
 }
 
-CACHE_MIDDLEWARE_SECONDS = 60
-CACHE_MIDDLEWARE_KEY_PREFIX = 'efforia'
-CACHES = {
-    'default': {
-        'BACKEND': 'django.core.cache.backends.memcached.MemcachedCache',
-        'LOCATION': '127.0.0.1:11211'
-    }
-}
+# CACHE_MIDDLEWARE_SECONDS = 60
+# CACHE_MIDDLEWARE_KEY_PREFIX = 'efforia'
+# CACHES = {
+#     'default': {
+#         'BACKEND': 'django.core.cache.backends.memcached.MemcachedCache',
+#         'LOCATION': '127.0.0.1:11211'
+#     }
+# }
 
 SESSION_ENGINE = 'django.contrib.sessions.backends.cache'
 
@@ -97,18 +97,18 @@ LOGGING = {
 BASE_DIR = PROJECT_ROOT = os.path.abspath('')
 CACHE_MIDDLEWARE_KEY_PREFIX = PROJECT_ROOT.split(os.sep)[-1]
 STATIC_URL = '/static/'
-STATIC_ROOT = os.path.join(PROJECT_ROOT, 'emporio/static')
+STATIC_ROOT = os.path.join(PROJECT_ROOT, 'hub/static')
 STATICFILES_DIRS = (
-    os.path.join(BASE_DIR, 'emporio/public'),
+    os.path.join(BASE_DIR, 'hub/public'),
 )
-MEDIA_URL = STATIC_URL + 'media/'
-MEDIA_ROOT = os.path.join(PROJECT_ROOT, *MEDIA_URL.strip('/').split('/'))
-ROOT_URLCONF = 'emporio.urls'
+# MEDIA_URL = STATIC_URL + 'media/'
+# MEDIA_ROOT = os.path.join(PROJECT_ROOT, *MEDIA_URL.strip('/').split('/'))
+ROOT_URLCONF = 'hub.urls'
 
 TEMPLATES = [
     {
         'BACKEND': 'django.template.backends.django.DjangoTemplates',
-        'DIRS': [os.path.join(PROJECT_ROOT, 'emporio/templates')],
+        'DIRS': [os.path.join(PROJECT_ROOT, 'hub/templates')],
         'OPTIONS': {
             'context_processors': [
                 'django.contrib.auth.context_processors.auth',
@@ -129,7 +129,6 @@ TEMPLATES = [
 ]
 
 INSTALLED_APPS = (
-    'flat_responsive',
     'django.contrib.admin',
     'django.contrib.auth',
     'django.contrib.contenttypes',
@@ -139,9 +138,8 @@ INSTALLED_APPS = (
     'django.contrib.sites',
     'django.contrib.sitemaps',
     'django.contrib.staticfiles',
-    # 'shipping',
     'django_distill',
-    'emporio',
+    'hub',
 )
 
 EXTENSIONS = {
@@ -153,7 +151,7 @@ EXTENSIONS = {
     'Code': ['.html', '.py', '.js', '.css']
 }
 
-MIDDLEWARE_CLASSES = (
+MIDDLEWARE = (
     'django.contrib.sessions.middleware.SessionMiddleware',
     'django.middleware.locale.LocaleMiddleware',
     'django.contrib.auth.middleware.AuthenticationMiddleware',
