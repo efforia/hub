@@ -37,7 +37,7 @@
   <nav class="navbar navbar-default fixed-navbar">
     <div class="container-fluid">
       <a class="hidden-xs hidden-sm navbar-brand navbar-select" href="/">
-        <img src="./static/svg/hub.svg" class="navbar-img" alt="Efforia"/>
+        <img src="./static/svg/hub.svg" class="navbar-img" alt="Pandora"/>
       </a>
       <div class="navbar-header hidden-md">
         <button class="navbar-toggle collapsed bordered navbar-height navbar-corner-left"
@@ -48,7 +48,7 @@
           <span class="icon-bar bar"></span>
         </button>
         <a class="visible-xs visible-sm navbar-brand-center" href="/">
-          <img src="./static/svg/blacklogo.svg" class="navbar-img" alt="Efforia"/>
+          <img src="./static/svg/blacklogo.svg" class="navbar-img" alt="Pandora"/>
         </a>
         <div class="visible-xs visible-sm navbar-cart navbar-corner-right">
           <button type="button" class="btn btn-lg btn-default" data-toggle="collapse" data-target="#profile">
@@ -207,7 +207,7 @@
     <div class="col-md-8 col-md-offset-2">
       <img src="./static/svg/eosd.svg" class="img-responsive"/>
       <h2 class="highlight nomargin"> Nossos nanocomputadores mais versáteis e robustos
-        vem equipados com a tecnologia EOS-D, desenvolvida pela Efforia e baseado
+        vem equipados com a tecnologia EOS-D, desenvolvida pela Pandora e baseado
         na plataforma Android. </h2>
     </div>
   </div>
@@ -229,7 +229,7 @@
     </div>
     <div class="col-md-4 col-sm-4 text-center">
       <h1>Diversão Ilimitada</h1>
-      <p> Através de tecnologias próprias da Efforia Nanocomputadores e as compatíveis
+      <p> Através de tecnologias próprias da Pandora Nanocomputadores e as compatíveis
       com a plataforma Android, é possível acessar e desenvolver uma gama muito
       maior de games preparados para a televisão. </p>
     </div>
@@ -267,7 +267,7 @@
   <div class="row">
     <div class="col-md-4 col-sm-4 text-center">
       <h1>Compatível</h1>
-      <p> Para as mais diversas demandas, a Efforia desenvolveu o EOS-D, que possibilita
+      <p> Para as mais diversas demandas, a Pandora desenvolveu o EOS-D, que possibilita
         os nanocomputadores usarem da plataforma Android e ainda manterem a compatibilidade
         com funções da tecnologia EOS. </p>
     </div>
@@ -291,7 +291,7 @@
     <div class="col-md-6 col-sm-6 text-center">
       <img src="./static/svg/monitorback.svg" style="height:400px !important" class="img-responsive"/>
       <h2>Soluções customizadas para automação audiovisual.</h2>
-      <p> A Efforia disponibiliza para você uma soluções de encapsulamento diferenciado
+      <p> A Pandora disponibiliza para você uma soluções de encapsulamento diferenciado
         para a sua demanda, como o case com acoplamento padrão VESA. Ele é perfeito
         para conectar os nanocomputadores na traseira do monitor ou televisor,
         tornando a conexão do vídeo fácil e prática pela sua proximidade. </p>
@@ -300,9 +300,9 @@
       <img src="./static/svg/nanocomputers.svg" style="height:400px !important" class="img-responsive"/>
       <h2>O próximo parque de computadores de sua empresa.</h2>
       <p> Com a possibilidade de usar a tecnologia EOS-D para construir terminais
-        remotos inteligentes, a Efforia dispõe para você uma solução de alto desempenho
+        remotos inteligentes, a Pandora dispõe para você uma solução de alto desempenho
         e moderna a partir de uma rede de nanocomputadores interligados a um servidor
-        de alta potência com a tecnologia EOS desenvolvida para o Efforia. </p>
+        de alta potência com a tecnologia EOS desenvolvida para o Pandora. </p>
     </div>
   </div>
 </div>
@@ -330,14 +330,14 @@
 	    <a class="white" href="/hub/iot"><p>IoT</p></a>
           </div>
 	  <div class="col-md-3">
-	    <h3>A Efforia</h3>
+	    <h3>A Pandora</h3>
 	    <a class="white" href="/help/localization"><p>Localização</p></a>
 	    <a class="white" href="/help/"><p>Ajuda</p></a>
 	    <a class="white" href="/blog"><p>Blog</p></a>
 	  </div>
 	</div>
 	<div class="col-md-2 col-sm-6 text">
-	  <h3>Siga a Efforia</h3>
+	  <h3>Siga a Pandora</h3>
 	  <style>
 	    .social-icon {
 	      min-height:60px;
@@ -346,12 +346,12 @@
 	  </style>
 	  <div class="row flex text-center" style="margin-top:15px">
             <div class="col-md-3 col-xs-3 middle social-icon">
-	      <a class="white" href="http://www.facebook.com/efforianano">
+	      <a class="white" href="http://www.facebook.com/Pandoranano">
 	        <i class="fa fa-facebook fa-2x" aria-hidden="true"></i>
 	      </a>
 	    </div>
             <div class="col-md-3 col-xs-3 middle social-icon">
-	      <a class="white" href="http://www.twitter.com/efforianano">
+	      <a class="white" href="http://www.twitter.com/Pandoranano">
 	        <i class="fa fa-twitter fa-2x" aria-hidden="true"></i>
 	      </a>
 	    </div>
@@ -373,7 +373,7 @@
 	      </a>
 	    </div>
             <div class="col-md-3 col-xs-3 middle social-icon">
-	      <a class="white" href="https://github.com/efforia/">
+	      <a class="white" href="https://github.com/Pandora/">
 	        <i class="fa fa-github fa-2x" aria-hidden="true"></i>
 	      </a>
 	    </div>
@@ -423,12 +423,12 @@
 	  <div class="row black-row flex">
             <div class="col-md-2 col-xs-3"><div class="black img-rounded"><img src="./static/svg/email.svg" class="inverted img-responsive"></div></div>
 	    <div class="col-md-10 col-xs-9 middle nopadding" style="justify-content:left">
-	      <p class="black-p"> ola@efforia.com.br </p>
+	      <p class="black-p"> ola@Pandora.com.br </p>
 	    </div>
 	  </div>
 
 	  <!--<div class="col-md-1 col-sm-1 col-xs-1"><img src="./static/svg/skype.svg" class="black img-rounded img-responsive"></div>
-	  <div class="col-md-11 col-sm-11 col-xs-11 nopadding"><p class="black-p"> efforiaca </p></div>!-->
+	  <div class="col-md-11 col-sm-11 col-xs-11 nopadding"><p class="black-p"> Pandoraca </p></div>!-->
         </div>
       </div>
       <hr>
@@ -475,12 +475,12 @@
 </div>
       <div class="row info whitebg">
         <p class="visible-md visible-lg visible-sm site-info text-center">
-          Efforia Tecnologia Ltda - ME
+          Pandora Tecnologia Ltda - ME
           <span class="separator">|</span> CNPJ: 15.436.865/0001-72
           <span class="separator">|</span> Vigário José Inácio, 399/702 - Porto Alegre/RS - Brasil
         </p>
         <p class="visible-xs site-info text-center">
-          Efforia Tecnologia Ltda - ME<br/>
+          Pandora Tecnologia Ltda - ME<br/>
           CNPJ: 15.436.865/0001-72<br/>
           Rua Vigário José Inácio, 399/702<br/>
           Porto Alegre/RS - Brasil

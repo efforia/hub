@@ -37,7 +37,7 @@
   <nav class="navbar navbar-default fixed-navbar">
     <div class="container-fluid">
       <a class="hidden-xs hidden-sm navbar-brand navbar-select" href="/">
-        <img src="./static/svg/hub.svg" class="navbar-img" alt="Efforia"/>
+        <img src="./static/svg/hub.svg" class="navbar-img" alt="Pandora"/>
       </a>
       <div class="navbar-header hidden-md">
         <button class="navbar-toggle collapsed bordered navbar-height navbar-corner-left"
@@ -48,7 +48,7 @@
           <span class="icon-bar bar"></span>
         </button>
         <a class="visible-xs visible-sm navbar-brand-center" href="/">
-          <img src="./static/svg/blacklogo.svg" class="navbar-img" alt="Efforia"/>
+          <img src="./static/svg/blacklogo.svg" class="navbar-img" alt="Pandora"/>
         </a>
         <div class="visible-xs visible-sm navbar-cart navbar-corner-right">
           <button type="button" class="btn btn-lg btn-default" data-toggle="collapse" data-target="#profile">
@@ -289,7 +289,7 @@
     </div>
     <div class="col-md-4 col-sm-4 lalign">
       <h3>Expanda as possibilidades</h3>
-      <p> O Efforia disponibiliza diversos acessórios certificados para você a partir
+      <p> O Pandora disponibiliza diversos acessórios certificados para você a partir
         de nosso site. </p>
     </div>
   </div>
@@ -369,14 +369,14 @@
 	    <a class="white" href="/hub/iot"><p>IoT</p></a>
           </div>
 	  <div class="col-md-3">
-	    <h3>A Efforia</h3>
+	    <h3>A Pandora</h3>
 	    <a class="white" href="/help/localization"><p>Localização</p></a>
 	    <a class="white" href="/help/"><p>Ajuda</p></a>
 	    <a class="white" href="/blog"><p>Blog</p></a>
 	  </div>
 	</div>
 	<div class="col-md-2 col-sm-6 text">
-	  <h3>Siga a Efforia</h3>
+	  <h3>Siga a Pandora</h3>
 	  <style>
 	    .social-icon {
 	      min-height:60px;
@@ -385,12 +385,12 @@
 	  </style>
 	  <div class="row flex text-center" style="margin-top:15px">
             <div class="col-md-3 col-xs-3 middle social-icon">
-	      <a class="white" href="http://www.facebook.com/efforianano">
+	      <a class="white" href="http://www.facebook.com/Pandoranano">
 	        <i class="fa fa-facebook fa-2x" aria-hidden="true"></i>
 	      </a>
 	    </div>
             <div class="col-md-3 col-xs-3 middle social-icon">
-	      <a class="white" href="http://www.twitter.com/efforianano">
+	      <a class="white" href="http://www.twitter.com/Pandoranano">
 	        <i class="fa fa-twitter fa-2x" aria-hidden="true"></i>
 	      </a>
 	    </div>
@@ -412,7 +412,7 @@
 	      </a>
 	    </div>
             <div class="col-md-3 col-xs-3 middle social-icon">
-	      <a class="white" href="https://github.com/efforia/">
+	      <a class="white" href="https://github.com/Pandora/">
 	        <i class="fa fa-github fa-2x" aria-hidden="true"></i>
 	      </a>
 	    </div>
@@ -462,12 +462,12 @@
 	  <div class="row black-row flex">
             <div class="col-md-2 col-xs-3"><div class="black img-rounded"><img src="./static/svg/email.svg" class="inverted img-responsive"></div></div>
 	    <div class="col-md-10 col-xs-9 middle nopadding" style="justify-content:left">
-	      <p class="black-p"> ola@efforia.com.br </p>
+	      <p class="black-p"> ola@Pandora.com.br </p>
 	    </div>
 	  </div>
 
 	  <!--<div class="col-md-1 col-sm-1 col-xs-1"><img src="./static/svg/skype.svg" class="black img-rounded img-responsive"></div>
-	  <div class="col-md-11 col-sm-11 col-xs-11 nopadding"><p class="black-p"> efforiaca </p></div>!-->
+	  <div class="col-md-11 col-sm-11 col-xs-11 nopadding"><p class="black-p"> Pandoraca </p></div>!-->
         </div>
       </div>
       <hr>
@@ -514,12 +514,12 @@
 </div>
       <div class="row info whitebg">
         <p class="visible-md visible-lg visible-sm site-info text-center">
-          Efforia Tecnologia Ltda - ME
+          Pandora Tecnologia Ltda - ME
           <span class="separator">|</span> CNPJ: 15.436.865/0001-72
           <span class="separator">|</span> Vigário José Inácio, 399/702 - Porto Alegre/RS - Brasil
         </p>
         <p class="visible-xs site-info text-center">
-          Efforia Tecnologia Ltda - ME<br/>
+          Pandora Tecnologia Ltda - ME<br/>
           CNPJ: 15.436.865/0001-72<br/>
           Rua Vigário José Inácio, 399/702<br/>
           Porto Alegre/RS - Brasil
