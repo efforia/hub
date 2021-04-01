@@ -3,3 +3,4 @@ output
 static
 *.pyc
 .vscode
+.DS_Store
