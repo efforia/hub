@@ -1,2 +1,2 @@
-# hub
-HUB nanocomputers website
+# Pandora
+Pandora Entertainment, maker of hub nanocomputers, website
