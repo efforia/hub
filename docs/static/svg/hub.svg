@@ -1,14 +1,101 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- Generator: Adobe Illustrator 16.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
-<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Generator: Adobe Illustrator 25.2.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
 <svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
-	 width="333.333px" height="400px" viewBox="0 0 333.333 400" enable-background="new 0 0 333.333 400" xml:space="preserve">
+	 viewBox="0 0 750 750" style="enable-background:new 0 0 750 750;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#1C1C1B;}
+	.st1{fill:#1364F0;}
+	.st2{fill:#DCDC00;}
+	.st3{fill:#F50000;}
+	.st4{fill:#6D1943;}
+	.st5{fill:#00A946;}
+	.st6{fill:#EF3B68;}
+	.st7{fill:#3499CD;}
+	.st8{fill:#6FC498;}
+	.st9{fill:#996699;}
+	.st10{fill:#FFCE0C;}
+	.st11{fill:#E62C5F;}
+	.st12{fill:#EC1C24;}
+	.st13{fill:#E94753;}
+	.st14{fill:#EE6771;}
+	.st15{fill:#ED8D97;}
+	.st16{fill:#E4B4BC;}
+	.st17{fill:#FFFFFF;}
+	.st18{clip-path:url(#SVGID_2_);fill:#6D1843;}
+	.st19{clip-path:url(#SVGID_2_);fill:none;stroke:#6D1843;stroke-width:1.909;stroke-miterlimit:10;}
+	.st20{clip-path:url(#SVGID_2_);fill:#8B2863;}
+	.st21{clip-path:url(#SVGID_2_);fill:none;stroke:#8B2863;stroke-width:1.909;stroke-miterlimit:10;}
+	.st22{clip-path:url(#SVGID_2_);fill:#BE5E91;}
+	.st23{clip-path:url(#SVGID_2_);fill:none;stroke:#BE5E91;stroke-width:1.909;stroke-miterlimit:10;}
+	.st24{clip-path:url(#SVGID_2_);fill:#D180B0;}
+	.st25{clip-path:url(#SVGID_2_);fill:none;stroke:#D180B0;stroke-width:1.909;stroke-miterlimit:10;}
+	.st26{clip-path:url(#SVGID_2_);fill:#FFFFFF;}
+	.st27{clip-path:url(#SVGID_2_);fill:none;stroke:#FFFFFF;stroke-width:1.909;stroke-miterlimit:10;}
+	.st28{clip-path:url(#SVGID_4_);fill:#478CCA;}
+	.st29{clip-path:url(#SVGID_4_);fill:#50ABE0;}
+	.st30{clip-path:url(#SVGID_4_);fill:#6BC9F1;}
+	.st31{clip-path:url(#SVGID_4_);fill:#FFFFFF;}
+	.st32{fill:none;stroke:#DEDEDE;stroke-width:30;}
+	.st33{fill:#CCCCCC;}
+	.st34{fill:#78BF92;}
+	.st35{fill:#3997CD;}
+	.st36{fill:#A06396;}
+	.st37{fill:#F3962B;}
+	.st38{fill:#FFCE00;}
+	.st39{fill:#A2FFC2;}
+	.st40{fill:#46C3FF;}
+	.st41{fill:#FFAFFF;}
+	.st42{fill:#FF3E82;}
+	.st43{fill:#FFAA37;}
+	.st44{fill:#FFD400;}
+	.st45{fill:none;}
+	.st46{fill:#2F89F4;stroke:#2F89F4;stroke-width:0.6673;stroke-miterlimit:10;}
+	.st47{fill:#8218E8;stroke:#8218E8;stroke-width:0.6673;stroke-miterlimit:10;}
+	.st48{fill:#EF8F26;stroke:#EF8F26;stroke-width:0.6673;stroke-miterlimit:10;}
+	.st49{fill:#EF3030;stroke:#EF3030;stroke-width:0.6673;stroke-miterlimit:10;}
+	.st50{fill:#19D86B;stroke:#19D86B;stroke-width:0.6673;stroke-miterlimit:10;}
+	.st51{fill:#85DD28;stroke:#85DD28;stroke-width:0.6673;stroke-miterlimit:10;}
+	.st52{fill:#F9E419;stroke:#F9E419;stroke-width:0.6673;stroke-miterlimit:10;}
+	.st53{fill:#F28314;stroke:#F28314;stroke-width:0.6673;stroke-miterlimit:10;}
+	.st54{fill:#4168AF;}
+	.st55{fill:#3799CF;}
+	.st56{fill:#DD9C3E;}
+	.st57{fill:#92BD94;}
+	.st58{fill:#0068FF;stroke:#0068FF;stroke-width:0.6673;stroke-miterlimit:10;}
+	.st59{fill:#B01DED;stroke:#B01DED;stroke-width:0.6673;stroke-miterlimit:10;}
+	.st60{fill:#FFFFFF;stroke:#FFFFFF;stroke-width:0.6673;stroke-miterlimit:10;}
+	.st61{fill:#FFCE00;stroke:#FFCE00;stroke-width:0.6673;stroke-miterlimit:10;}
+	.st62{fill:#4F2DE0;stroke:#4F2DE0;stroke-width:0.6673;stroke-miterlimit:10;}
+	.st63{fill:none;stroke:#FFFFFF;stroke-width:5;stroke-miterlimit:10;}
+	.st64{fill:none;stroke:#FFFFFF;stroke-width:5;stroke-miterlimit:10;stroke-dasharray:8.8515,8.8515;}
+	.st65{fill:none;stroke:#FFFFFF;stroke-width:5;stroke-miterlimit:10;stroke-dasharray:8.8831,8.8831;}
+	.st66{fill:#8218E8;}
+	.st67{fill:#54D37B;}
+	.st68{fill:#B01DED;}
+	.st69{fill:#EF8F26;}
+	.st70{fill:#21874F;}
+	.st71{fill:none;stroke:#FFFFFF;stroke-width:43.75;}
+	.st72{fill:none;stroke:#000000;stroke-width:40;}
+</style>
 <g>
-	<polygon fill="#3399CC" points="166.673,200 250.022,250 333.333,300 250.004,350 166.673,400 166.673,300 	"/>
-	<polygon fill="#996699" points="333.333,100 250.094,150 166.673,200 250.002,250 333.333,300 333.333,200 	"/>
-	<polygon fill="#F89839" points="166.689,0 83.342,50 0,100 83.344,150 166.689,200 166.689,100 	"/>
-	<polygon fill="#EE3968" points="166.673,0 249.998,50 333.333,100 250.004,150 166.673,200 166.673,100 	"/>
-	<polygon fill="#FFCE09" points="166.689,200 83.342,250 0,300 83.344,350 166.689,400 166.689,300 	"/>
-	<polygon fill="#6EC498" points="0.016,100 83.339,150 166.673,200 83.346,250 0.016,300 0.016,200 	"/>
+	<rect x="90.79" y="90.79" width="568.43" height="568.43"/>
+	
+		<rect x="446.29" y="304.18" transform="matrix(-1 -4.490331e-11 4.490331e-11 -1 1034.6866 750.4737)" class="st66" width="142.11" height="142.11"/>
+	
+		<rect x="161.6" y="303.95" transform="matrix(-1 -4.491975e-11 4.491975e-11 -1 465.787 750.4737)" class="st67" width="142.58" height="142.58"/>
+	
+		<rect x="304.18" y="304.18" transform="matrix(-1 -4.490331e-11 4.490331e-11 -1 750.4737 750.4737)" class="st68" width="142.11" height="142.11"/>
+	
+		<rect x="446.05" y="161.84" transform="matrix(-1 -4.489044e-11 4.489044e-11 -1 1034.213 465.787)" class="st6" width="142.11" height="142.11"/>
+	
+		<rect x="161.84" y="161.84" transform="matrix(-1 -4.489044e-11 4.489044e-11 -1 465.787 465.787)" class="st44" width="142.11" height="142.11"/>
+	
+		<rect x="303.95" y="161.84" transform="matrix(-1 -4.489044e-11 4.489044e-11 -1 750 465.787)" class="st69" width="142.11" height="142.11"/>
+	
+		<rect x="446.05" y="446.53" transform="matrix(-1 -4.487756e-11 4.487756e-11 -1 1034.213 1035.1603)" class="st35" width="142.11" height="142.11"/>
+	
+		<rect x="161.84" y="446.53" transform="matrix(-1 -4.490331e-11 4.490331e-11 -1 465.787 1035.1603)" class="st70" width="142.11" height="142.11"/>
+	
+		<rect x="303.95" y="446.53" transform="matrix(-1 -4.487756e-11 4.487756e-11 -1 750 1035.1603)" class="st40" width="142.11" height="142.11"/>
 </g>
 </svg>
